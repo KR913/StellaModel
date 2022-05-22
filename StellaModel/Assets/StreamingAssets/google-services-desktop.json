@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053336347137",
+    "firebase_url": "https://stella-91382.firebaseio.com",
+    "project_id": "stella-91382",
+    "storage_bucket": "stella-91382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053336347137:android:137258342000b9c2a09600",
+        "android_client_info": {
+          "package_name": "com.Company.StellaModel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053336347137-l6lmovju19ddn795gtotv03rh6fe7uej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiDoIvVfXPVIxLFlApwCk9oCBTKXadS7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053336347137-l6lmovju19ddn795gtotv03rh6fe7uej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

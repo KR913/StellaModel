@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://stella-91382.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">1053336347137</string>
+  <string name="google_storage_bucket" translatable="false">stella-91382.appspot.com</string>
+  <string name="project_id" translatable="false">stella-91382</string>
+  <string name="google_api_key" translatable="false">AIzaSyBiDoIvVfXPVIxLFlApwCk9oCBTKXadS7Y</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBiDoIvVfXPVIxLFlApwCk9oCBTKXadS7Y</string>
+  <string name="google_app_id" translatable="false">1:1053336347137:android:137258342000b9c2a09600</string>
+  <string name="default_web_client_id" translatable="false">1053336347137-l6lmovju19ddn795gtotv03rh6fe7uej.apps.googleusercontent.com</string>
+</resources>
